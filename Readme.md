@@ -9,4 +9,4 @@ Font is Iosevka Fixed XBd Ex 14pt
 ## Screenshot
 <br>
 
-![Alt text](/shell%20configs/Screenshot.png?raw=true "Screenshot")
+![Alt text](/Screenshot.png?raw=true "Screenshot")
